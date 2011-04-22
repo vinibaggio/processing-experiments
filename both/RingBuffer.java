@@ -1,13 +1,4 @@
 
-/*************************************************************************
- *  Compilation:  javac RingBuffer.java
- *  Execution:    java RingBuffer
- *
- *  Ring buffer (fixed size queue) implementation using a circular array
- *  (array with wrap-around).
- *
- *************************************************************************/
-
 import java.util.Iterator;
 import java.util.NoSuchElementException;
 
