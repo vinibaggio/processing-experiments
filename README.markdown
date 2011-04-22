@@ -1,3 +1,5 @@
+*disclaimer: this is bad code. Don't tell me i didnt warn ya!*
+
 # Processing Experiments
 
 These are some of my first experiments done in Processing.
